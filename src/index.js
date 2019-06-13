@@ -11,6 +11,7 @@ const toString62 = function (num) {
     return res
 }
 
-module.exports = {
-    toString62: toString62
-};
+export default toString62
+// module.exports = {
+//     toString62: toString62
+// };
